@@ -1,0 +1,171 @@
+/* Common styles for all ingredients */
+.ingredient {
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: cursive;
+    text-shadow: -1px -1px 1px black, 1px 1px 1px black, 1px -1px 1px black, -1px 1px 1px black, 2px 2px 6px black;
+    color: lightgrey;
+}
+
+/* Bread */
+.Marbled-Rye {
+    background-image: url('../ingredient-pics/marbled-rye.png');
+}
+.Sourdough {
+    background-image: url('../ingredient-pics/sourdough.png');
+}
+.Panini {
+    background-image: url('../ingredient-pics/panini.png');
+}
+.Wheat {
+    background-image: url('../ingredient-pics/wheat.png');
+}
+.Italian-Roll {
+    background-image: url('../ingredient-pics/italian-roll.png');
+}
+
+/* Main */
+.Salami {
+    background-image: url('../ingredient-pics/salami.png');
+}
+.Bratwurst {
+    background-image: url('../ingredient-pics/bratwurst.png');
+}
+.Ham {
+    background-image: url('../ingredient-pics/ham-slice.png');
+}
+.Turkey {
+    background-image: url('../ingredient-pics/turkey.png');
+}
+.Roast-Beef {
+    background-image: url('../ingredient-pics/roast-beef.png');
+}
+.Steak {
+    background-image: url('../ingredient-pics/steak.png');
+}
+.Grilled-Chicken {
+    background-image: url('../ingredient-pics/grilled-chicken.png');
+}
+.Fried-Chicken {
+    background-image: url('../ingredient-pics/fried-chicken.png');
+}
+
+/* Cheese */
+.Blue-Cheese {
+    background-image: url('../ingredient-pics/blue-cheese.png');
+}
+.Gouda {
+    background-image: url('../ingredient-pics/gouda.png');
+}
+.Smoked-Gouda {
+    background-image: url('../ingredient-pics/smoked-gouda.png');
+}
+.Sharp-Cheddar {
+    background-image: url('../ingredient-pics/cheddar-cheese-slice.png');
+}
+.Cheddar {
+    background-image: url('../ingredient-pics/cheddar-cheese-slice.png');
+}
+.Swiss {
+    background-image: url('../ingredient-pics/swiss.png');
+}
+.Baby-Swiss {
+    background-image: url('../ingredient-pics/swiss.png');
+}
+.Dill-Havarti {
+    background-image: url('../ingredient-pics/dill-havarti.png');
+}
+.Feta {
+    background-image: url('../ingredient-pics/feta.png');
+}
+
+/* Roughage */
+.Pickled-Asparagus {
+    background-image: url('../ingredient-pics/pickled-asparagus.png');
+}
+.Cucumber {
+    background-image: url('../ingredient-pics/cucumber.png');
+}
+.Green-Leaf-Lettuce {
+    background-image: url('../ingredient-pics/green-leaf-lettuce.png');
+}
+.Romaine-Lettuce {
+    background-image: url('../ingredient-pics/romaine-lettuce.png');
+}
+.Tomato {
+    background-image: url('../ingredient-pics/tomato.png');
+}
+.Pickles {
+    background-image: url('../ingredient-pics/pickles.png');
+}
+.Green-Onion {
+    background-image: url('../ingredient-pics/green-onion.png');
+}
+.Green-Pepper {
+    background-image: url('../ingredient-pics/green-pepper.png');
+}
+.Red-Pepper {
+    background-image: url('../ingredient-pics/red-pepper.png');
+}
+.Roasted-Red-Pepper {
+    background-image: url('../ingredient-pics/roasted-red-pepper.png');
+}
+.Onion {
+    background-image: url('../ingredient-pics/onion.png');
+}
+.Carmalized-Onion {
+    background-image: url('../ingredient-pics/carmalized-onion.png');
+}
+
+/* Wildcard */
+.Crispy-Onions {
+    background-image: url('../ingredient-pics/crispy-onions.png');
+}
+.Potato-Chips {
+    background-image: url('../ingredient-pics/potato-chips.png');
+}
+.French-Fries {
+    background-image: url('../ingredient-pics/french-fries.png');
+}
+.Steak-Seasoning {
+    background-image: url('../ingredient-pics/steak-seasoning.png');
+}
+
+/* Condiments */
+.Ketchup {
+    background-image: url('../ingredient-pics/ketchup.png');
+}
+.Mustard {
+    background-image: url('../ingredient-pics/mustard.png');
+}
+.Spicy-Brown-Mustard {
+    background-image: url('../ingredient-pics/spicy-brown-mustard.png');
+}
+.Kewpie-Mayo {
+    background-image: url('../ingredient-pics/kewpie-mayo.png');
+}
+.Mayonaise {
+    background-image: url('../ingredient-pics/mayonaise.png');
+}
+.Arbys-Sauce {
+    background-image: url('../ingredient-pics/arbys-sauce.png');
+}
+.Chik-fil-a-Sauce {
+    background-image: url('../ingredient-pics/chik-fil-a-sauce.png');
+}
+
+/* Sauce */
+.Mango-Salsa {
+    background-image: url('../ingredient-pics/mango-salsa.png');
+}
+.Burger-Sauce {
+    background-image: url('../ingredient-pics/burger-sauce.png');
+}
+.Sweet-and-Spicy-Sauce {
+    background-image: url('../ingredient-pics/sweet-and-spicy-sauce.png');
+}
+.Buffalo-Sauce {
+    background-image: url('../ingredient-pics/buffalo-sauce.png');
+}

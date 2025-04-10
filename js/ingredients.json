@@ -1,0 +1,70 @@
+{
+    "bread": [
+        "Rye",
+        "Sourdough",
+        "Panini",
+        "Wheat",
+        "Italian Roll"
+    ],
+
+    "main": [
+        "Salami",
+        "Bratwurst",
+        "Ham",
+        "Turkey",
+        "Roast Beef",
+        "Steak",
+        "Grilled Chicken",
+        "Fried Chicken"
+    ],
+
+    "cheese": [
+        "Blue Cheese",
+        "Gouda",
+        "Smoked Gouda",
+        "Sharp Chedder",
+        "Chedder",
+        "Swiss",
+        "Baby Swiss",
+        "Dill Havarti",
+        "Feta"
+    ],
+    "roll twice?": {},
+    "roughage": [
+        "Pickled Asparagus",
+        "Cucumber",
+        "Green Leaf Lettuce",
+        "Romaine Lettuce",
+        "Tomato",
+        "Pickles",
+        "Green Onion",
+        "Grilled Green Pepper",
+        "Roasted Red Pepper",
+        "Roasted Red Pepper",
+        "Onion",
+        "Carmalized Onion",
+        "Grilled Onion"
+    ],
+
+    "wildcard": [
+        "Crispy Onions",
+        "Potato Chips",
+        "French Fries",
+        "Steak Seasoning"
+    ],
+
+    "condiments": [
+        "Ketchup",
+        "Spicy Brown Mustard",
+        "Kewpie Mayo",
+        "Mayonaise",
+        "Arby's Sauce",
+        "Chik-fil-a Sauce"
+    ],
+
+    "sauce": [
+        "Mango Salsa",
+        "Bunker Sauce?",
+        "Sweet and Spicy Sauce"
+    ]
+}
